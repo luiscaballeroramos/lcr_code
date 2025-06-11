@@ -1,0 +1,13 @@
+[project]
+name = "code"
+version = "0.1.0"
+description = "Reusable functions and utilities for development"
+authors = [{ name = "Luis Caballero Ramos", email = "luiscaballeroramos@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = ["numpy"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
