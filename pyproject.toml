@@ -1,5 +1,5 @@
 [project]
-name = "code"
+name = "lcr_code"
 version = "0.1.0"
 description = "Reusable functions and utilities for development"
 authors = [{ name = "Luis Caballero Ramos", email = "luiscaballeroramos@gmail.com" }]
