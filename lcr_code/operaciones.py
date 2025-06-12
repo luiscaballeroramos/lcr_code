@@ -1,3 +1,3 @@
 # operaciones.py
 def duplicar(valor):
-    return valor * 5
+    return valor / 2
