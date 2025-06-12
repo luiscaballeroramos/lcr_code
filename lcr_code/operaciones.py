@@ -1,3 +1,3 @@
 # operaciones.py
-def duplicar(valor):
-    return valor * 10
+def sqrt(value):
+    return value**0.5
